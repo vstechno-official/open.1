@@ -1,7 +1,6 @@
-# Sigma Magical App and File Opener
+# Sigm.app
 
-Sigma Magical App is a magical application and file opener for Windows. It uses a simple API to open applications or files with the provided path.
-
+Sigm.app is a magical application and file opener for Windows. 
 ## Features
 
 - Open any application on your Windows computer.
@@ -22,3 +21,5 @@ Sigma Magical App is a magical application and file opener for Windows. It uses 
 2.Then add /open/ to the url. eg- `http://localhost:6969/open/ `
 3.If you want to open any application i.e chrome, then ``` http://localhost:6969/open/chrome ```
 4.If you want to open a file i.e hello.txt, then ```http://localhost:6969/open/C:UserDesktopfile.txt/ ```
+#Disclaimer
+If your file is deeply located, then it will take time
