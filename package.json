@@ -1,7 +1,7 @@
 {
-  "name": "sigm.app",
+  "name": "open.1",
   "version": "1.0.0",
-  "description": "a application which u use@sigms",
+  "description": "open apps with ease!",
   "main": "app.js",
   "scripts": {
      "start": "node app.js",
