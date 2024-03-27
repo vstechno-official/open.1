@@ -1,6 +1,6 @@
-# Sigm.app
+# Open.1
 
-Sigm.app is a magical application and file opener for Windows. 
+Open.1 is application and file opener for Windows. 
 ## Features
 
 - Open any application on your Windows computer.
@@ -9,7 +9,7 @@ Sigm.app is a magical application and file opener for Windows.
 ## Installation
 
 1. Clone the sigm.app repository:
-2. ``` git clone https://github.com/vstechno-official/sigm.app ```
+2. ``` git clone https://github.com/vstechno-official/open.1 ```
 3. Install [Node.js](https://nodejs.org/) on your computer if you haven't already.
 4. Open the terminal/command prompt and navigate to the extracted folder.
 5. Run `npm install` to install the necessary dependencies.
